@@ -24,6 +24,9 @@ Este projeto cria uma interface gráfica em Python para exibir informações sob
   ##  🔧 Execução
 
   Certifique-se de que os arquivos de imagem necessários estão no mesmo diretório do script.
+  
   Execute o script principal:
+  
           python main.py
+          
 A interface será exibida com as informações dos filmes.
